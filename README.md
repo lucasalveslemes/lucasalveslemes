@@ -2,8 +2,22 @@
 
 **`Desenvolvedor Back‑End & Assistente de Dados`**
 
-Olá, meu nome é **Lucas Alves Lemes**, trabalho como Assistente de Dados na AeC e estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** pela **UNINTER**.  
-Atualmente estudando **Back‑End em Java** pelo curso de Java Completo do Nelio Alves, como também pelo Bootcamp Santander 2025, também tenho me aventurado em **automações em Python** que me ajudam em demandas rotineiras e conheço sobre desenvolvimento web com PHP e Laravel.
+Olá! Sou **Lucas Alves Lemes**, fascinado por **Back‑End** e sempre em busca de novos desafios.  
+Atualmente, atuo como **Assistente de Dados** na AeC e curso **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINTER**.
+
+### O que estou estudando no momento
+- 💻 **Back‑End em Java**  
+  - Curso “Java Completo” do Nélio Alves  
+  - Bootcamp Santander 2025 (Back‑End Java)  
+- 🤖 **Automação com Python**  
+  - Scripts para agilizar tarefas do dia a dia
+
+### Minhas experiências  
+- 🔧 Assistente de Dados: ETL, SQL Server, SSIS e Power BI  
+- 🌐 Desenvolvimento Web: projetos em **PHP** e **Laravel**
+
+Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em código!  
+
 
 <p align="left">
   <a href="https://github.com/LucasAlves">
@@ -34,7 +48,12 @@ Atualmente estudando **Back‑End em Java** pelo curso de Java Completo do Nelio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="30px" style="margin-right:8px;"/>
   <img 
     alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120px" style="margin-right:8px;"/>
-  <img alt="SQL Server" title="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge& logo=microsoft-sql-server&logoColor=white" width="90px" style="margin-right:8px;"/>
+  <img 
+  alt="SQL Server" 
+  title="SQL Server" 
+  src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" 
+  width="95px" 
+/>
   <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" width="90px"/>
 </p>
 </p>
