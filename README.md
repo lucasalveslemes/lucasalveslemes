@@ -1,4 +1,4 @@
-# Lucas Alves
+# Lucas Lemes
 
 **`Desenvolvedor Back‑End & Assistente de Dados`**
 
