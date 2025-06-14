@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/🚀–Bem-vindo–blue?logo=github&logoColor=white&style=for-the-badge" alt="Olá">
-</p>
-
 # Lucas Alves
 
 **`Desenvolvedor Back‑End & Assistente de Dados`**
