@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/🚀–Bem-vindo–blue?logo=github&logoColor=white&style=for-the-badge" alt="Bem-vindo">
+  <img src="https://custom-icon-badges.demolab.com/badge/🚀–Bem-vindo–blue?logo=github&logoColor=white&style=for-the-badge" alt="Olá">
 </p>
 
 # Lucas Alves
 
 **`Desenvolvedor Back‑End & Assistente de Dados`**
 
-Olá, me chamo **Lucas Alves Lemes**, trabalho como Assistente de Dados na AeC e estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** pela **UNINTER**.  
+Olá, meu nome é **Lucas Alves Lemes**, trabalho como Assistente de Dados na AeC e estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** pela **UNINTER**.  
 Atualmente estudando **Back‑End em Java** pelo curso de Java Completo do Nelio Alves, como também pelo Bootcamp Santander 2025, também tenho me aventurado em **automações em Python** que me ajudam em demandas rotineiras e conheço sobre desenvolvimento web com PHP e Laravel.
 
 <p align="left">
