@@ -1,6 +1,6 @@
 # Lucas Lemes
 
-**`Desenvolvedor Back‑End & Assistente de Dados`**
+**`Desenvolvedor Back‑End & Analista de Dados`**
 
 Olá! Sou **Lucas Alves Lemes**, fascinado por **Back‑End** e sempre em busca de novos desafios.  
 Atualmente, atuo como **Analista de Dados** na AeC e curso **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
