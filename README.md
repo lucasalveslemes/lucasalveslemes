@@ -38,10 +38,18 @@ Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em
 ### 🤖 Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="30px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
+     alt="C#" 
+     title="C#" 
+     width="30px" 
+     style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="30px" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30px" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="30px" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
+     alt=".NET" 
+     title="ASP.NET" 
+     width="30px" 
+     style="margin-right:8px;"/>
   <img 
     alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120px" style="margin-right:8px;"/>
   <img 
@@ -59,8 +67,8 @@ Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em
 ### 📚 Formação e Experiência
 
 - 🎓 **ADS** – UNINTER (cursando)  
-- 💼 **Assistente de Dados** na AeC – ETL com SSIS, SQL Server e Power BI  
-- 📖 **Back‑End em Java (Spring Boot)** e **PHP (Laravel)** 
+- 💼 **Analista de Dados** na AeC – ETL com SSIS, SQL Server e Power BI  
+- 📖 **Back‑End em C# (ASP.NET)** e **PHP (Laravel)** 
 - 🚀 **Automação Python**  
 
 ---
