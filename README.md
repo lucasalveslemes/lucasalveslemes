@@ -3,18 +3,14 @@
 **`Desenvolvedor Back‑End & Assistente de Dados`**
 
 Olá! Sou **Lucas Alves Lemes**, fascinado por **Back‑End** e sempre em busca de novos desafios.  
-Atualmente, atuo como **Assistente de Dados** na AeC e curso **Análise e Desenvolvimento de Sistemas (ADS)** na **UNINTER**.
+Atualmente, atuo como **Analista de Dados** na AeC e curso **Análise e Desenvolvimento de Sistemas** na **UNINTER**.
 
 ### O que estou estudando no momento
-- 💻 **Back‑End em Java**  
-  - Curso “Java Completo” do Nélio Alves  
-  - Bootcamp Santander 2025 (Back‑End Java)  
-- 🤖 **Automação com Python**  
-  - Scripts para agilizar tarefas do dia a dia
+- 💻 **Back‑End em C#**  
+  - Curso “C# Completo” do Nélio Alves   
 
 ### Minhas experiências  
 - 🔧 Assistente de Dados: ETL, SQL Server, SSIS e Power BI  
-- 🌐 Desenvolvimento Web: projetos em **PHP** e **Laravel**
 
 Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em código!  
 
