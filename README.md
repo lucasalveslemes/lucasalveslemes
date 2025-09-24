@@ -51,8 +51,6 @@ Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em
      width="30px" 
      style="margin-right:8px;"/>
   <img 
-    alt="Spring Boot" title="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" width="120px" style="margin-right:8px;"/>
-  <img 
   alt="SQL Server" 
   title="SQL Server" 
   src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" 
