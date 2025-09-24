@@ -10,7 +10,7 @@ Atualmente, atuo como **Analista de Dados** na AeC e curso **Análise e Desenvol
   - Curso “C# Completo” do Nélio Alves   
 
 ### Minhas experiências  
-- 🔧 Assistente de Dados: ETL, SQL Server, SSIS e Power BI  
+- 🔧 Analista de Dados: ETL, SQL Server, SSIS e Power BI  
 
 Estou sempre em busca de novos conhecimentos e pronto para transformar ideias em código!  
 
